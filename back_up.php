@@ -1,0 +1,2 @@
+<a href="product_details.php?product_id=<?php echo $product['product_id']; ?>" class="btn btn-primary">View Details</a>
+                            <button class="btn btn-secondary">Add to Wishlist</button>
